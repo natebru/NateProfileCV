@@ -251,10 +251,7 @@ function Hero() {
   return (
     <section id="hero" className="hero" data-screen-label="Hero">
       <div className="hero-left">
-        <div className="portrait">
-          <img src="assets/nate.png" alt="Nate Bruneau" />
-          <div className="scan"></div>
-        </div>
+
         <div className="impact-block">
           <h4>Selected impact</h4>
           {IMPACT.map(it => (
