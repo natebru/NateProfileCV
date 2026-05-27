@@ -29,7 +29,7 @@ const BRINGS = [
   {
     icon: Icon.building,
     title: "Hyperscale infrastructure delivery.",
-    body: "Architected and shipped a 9-SCID enterprise datacenter — HA networking, multi-tenant storage, and cryptographic isolation — through to stable production.",
+    body: "Architected and shipped a 9-SCIF enterprise datacenter — HA networking, multi-tenant storage, and cryptographic isolation — through to stable production.",
   },
   {
     icon: Icon.users,
@@ -50,7 +50,7 @@ const BRINGS = [
 
 const IMPACT = [
   {
-    num: "9-SCID",
+    num: "9-SCIF",
     desc: "Enterprise datacenter architected and delivered with HA networking, multi-tenant storage, and crypto isolation.",
   },
   {
@@ -87,7 +87,7 @@ const ROLES = [
     summary: "Leads global strategy for security, networking and storage infrastructure powering enterprise-scale services.",
     bullets: [
       "Architected a hybrid Zero Trust licensing service using Confidential Compute and Managed HSMs for hardware-rooted trust and host attestation.",
-      "Directed architecture and deployment of a 9-SCID Enterprise Datacenter with HA networking, multi-tenant storage, and cryptographic isolation.",
+      "Directed architecture and deployment of a 9-SCIF Enterprise Datacenter with HA networking, multi-tenant storage, and cryptographic isolation.",
       "Commanded IcM rotations through 6 critical Sev 2 incidents with zero repeat occurrences.",
       "Achieved 100% WebTrust compliance across Network / Storage through continuous SDL, patching, and threat modeling.",
       "Drove team adoption of GitHub Copilot, CLI tooling, and autonomous agents — measurable velocity gains.",
